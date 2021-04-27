@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-26T00:10:37 IST" name="Suite" finished-at="2021-04-26T00:10:50 IST" duration-ms="12869">
+    <groups>
+    </groups>
+    <test started-at="2021-04-26T00:10:37 IST" name="ValidLogin" finished-at="2021-04-26T00:10:50 IST" duration-ms="12869">
+      <class name="test.FileUpload">
+        <test-method signature="testRahul()[pri:0, instance:test.FileUpload@3c7f66c4]" started-at="2021-04-26T00:10:37 IST" name="testRahul" finished-at="2021-04-26T00:10:50 IST" duration-ms="12781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRahul -->
+      </class> <!-- test.FileUpload -->
+    </test> <!-- ValidLogin -->
+  </suite> <!-- Suite -->
+</testng-results>
